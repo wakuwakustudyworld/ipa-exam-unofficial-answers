@@ -26,10 +26,10 @@
 ipa-exam-unofficial-answers/
 ├── 2025/
 │   ├── spring/
-│   │   ├── ap/
+│   │   ├── AP/
 │   │   │   ├── AM/
 │   │   │   └── PM/
-│   │   └── sc/
+│   │   └── SC/
 │   │       ├── AM1/
 │   │       ├── AM2/
 │   │       └── PM/
