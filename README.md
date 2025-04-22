@@ -54,7 +54,7 @@ ipa-exam-unofficial-answers/
 
 | 試験種別 | 午前 | 午後 | 解説掲載予定 |
 |----------|------|------|----------------|
-| AP       | 済<a href="./2025/spring/AP/AM/2025h_ap_am_answer.md">（AM）</a> |  <a href="./2025/spring/AP/PM/2025h_ap_pm_1_answer.md">問1</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_2_answer.md">問2</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_3_answer.md">問3</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_4_answer.md">問4</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_5_answer.md">問5</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_6_answer.md">問6</a>公開（PM）| 2025年4月20日予定〜 |
+| AP       | 済<a href="./2025/spring/AP/AM/2025h_ap_am_answer.md">（AM）</a> |  <a href="./2025/spring/AP/PM/2025h_ap_pm_1_answer.md">問1</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_2_answer.md">問2</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_3_answer.md">問3</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_4_answer.md">問4</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_5_answer.md">問5</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_6_answer.md">問6</a>，<a href="./2025/spring/AP/PM/2025h_ap_pm_7_answer.md">問7</a>公開（PM）| 2025年4月20日予定〜 |
 | SC       | 済<a href="./2025/spring/SC/AM1/2025h_koudo_am1_answer.md">（AM1）</a>・<a href="./2025/spring/SC/AM2/2025h_sc_am2_answer.md">（AM2）</a> | <a href="./2025/spring/SC/PM/2025h_sc_pm_1_answer.md">問1</a>公開（PM） | 2025年4月20日予定〜 |
 
 ---
